@@ -27,6 +27,7 @@ section {
 
 h2 {
     color: #333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ul {
@@ -44,8 +45,11 @@ button {
     padding: 5px 10px;
     border: none;
     cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 button:hover {
     background-color: #ffffff;
 }
+
+
