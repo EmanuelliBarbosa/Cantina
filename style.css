@@ -36,6 +36,7 @@ h2 {
 ul {
     list-style-type: none;
     padding: 0;
+
 }
 
 li {
@@ -63,3 +64,15 @@ h3 {
     text-align: center;
 }
 
+li {
+    list-style-type: none;
+}
+
+footer {
+    text-align: center;
+
+}
+
+.imagens {
+    width: 450px;
+}
