@@ -68,11 +68,13 @@ li {
     list-style-type: none;
 }
 
-footer {
-    text-align: center;
-
-}
 
 .imagens {
     width: 450px;
+}
+
+.rodape__logo {
+    text-align: center;
+    width: 800px;
+
 }
